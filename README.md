@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/17/33/b0/1733b070075597d4b401929cfd35bbcb.gif" width="100%" height="250px">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" height="250px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Adhidhee Ravishankar</h1>
 <h3 align="center">A dedicated and detail-oriented Computer Engineering graduate from USC, specializing in data engineering and analytics. I aim to apply my skills in data management and machine learning to drive business success and technological innovation.</h3>
-<img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adhidhee&label=Profile%20views&color=0e75b6&style=flat" alt="Adhidhee" /> </p>
 
