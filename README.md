@@ -13,11 +13,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Adhidhee?tab=repositories](https://github.com/Adhidhee?tab=repositories)
 - 💬 Ask me about **Data Engineering, Azure Cloud Solutions, PCB Design, Machine Learning**
 - 📫 How to reach me **adhidhee@usc.edu**
-- 📄 Know about my experiences [Click for Resume](https://www.linkedin.com/in/adhidhee-ravishankar-4160a1141/overlay/1706576171657/single-media-viewer/?profileId=ACoAACJcwxIBw3U1kCn_xru7BQid37CK6yIYUWg)
+- 📄 Know about my experiences [Click for Resume](https://www.linkedin.com/in/adhidhee/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adhidhee-ravishankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhidhee-ravishankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adhidhee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhidhee-ravishankar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
