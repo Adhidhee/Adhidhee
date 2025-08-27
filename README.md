@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Adhidhee?tab=repositories](https://github.com/Adhidhee?tab=repositories)
 - 💬 Ask me about **Data Engineering, Azure Cloud Solutions, PCB Design, Machine Learning**
 - 📫 How to reach me **adhidhee@usc.edu**
-- 📄 Know about my experiences [Click for Resume](https://www.linkedin.com/in/adhidhee/)
+- 📄 📄 Know about my experiences [Click for Resume](Adhidhee_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
