@@ -61,8 +61,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache/spark" width="40" height="40"/>
   </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" alt="databricks" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" alt="databricks" width="40" height="40"/>
+</a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
   </a>
